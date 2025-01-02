@@ -1,14 +1,17 @@
-# Portfolio Website Project
- 
-This project is a simple portfolio website created to practice and demonstrate basic GitLab operations, Git commands, and project workflows. The website includes the following:
- 
-- A homepage introducing the developer.
-- An "About Me" page with additional details.
-- Basic HTML and CSS for structure and styling.
- 
-Key learning objectives include:
- 
-- Setting up and managing a GitLab repository.
-- Using Git for branching, committing, and merging.
-- Creating and resolving GitLab issues for task management.
-- Developing and styling a basic website.
+# Portfolio Website
+
+This is a simple portfolio website project designed to showcase my skills, projects, and interests. The project is built using HTML and styled with CSS. 
+
+## Features
+
+- A homepage with a personal introduction.
+- Clean and responsive design.
+- Placeholder for images and future sections.
+
+## Getting Started
+
+1. Clone the repository.
+2. Open `index.html` in your browser to view the website.
+
+## Project Structure
+
