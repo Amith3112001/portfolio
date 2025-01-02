@@ -15,3 +15,9 @@ This is a simple portfolio website project designed to showcase my skills, proje
 
 ## Project Structure
 
+portfolio-website/ 
+├── index.html # Main HTML file 
+├── styles/ # Contains the CSS styles 
+│ └── style.css 
+├── images/ # Placeholder for images 
+└── README.md # Project description and setup instructions
